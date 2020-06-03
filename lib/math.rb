@@ -13,12 +13,13 @@ end
 def division(num1, num2)
   num1 = 50
   num2 = 2
-  answer = num1 / num2
+  dividend = num1 / num2
 end
 
 def multiplication(num1, num2)
-  
-
+  num1 = 4
+  num2 = 30
+  product = num1 * num2
 end
 
 def modulo(num1, num2)
